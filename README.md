@@ -1,56 +1,56 @@
 # Exp - 3 RAILWAY MANAGEMENT SYSTEM
-
-# AIM:
-To draw the UML diagram for Railway Management System.
-
-# SRS (Procedure):
-Create the following diagrams in StarUML:
-
-Use Case Diagram
-
-Class Diagram
-
-Activity Diagram
-
-Package Diagram
-
-Communication Diagram
-
-Sequence Diagram
-
-Login: User logs into the system.
-
-Check Availability: User selects the number of passengers and checks seat availability.
-
-If Not Available, the process stops here.
-
-Enter Details: User provides the required details for all passengers.
-
-Make Payment: User selects a payment method and attempts payment.
-
-If Payment Failed, the process stops here.
-
-Generate Ticket: Upon successful payment, the system generates and issues the ticket.
+## NAME : ARSHATH HUSSAIN I
+## REGISTRATION NUMBER : 212224230022
 
 
-# DIAGRAMS:
-# Use Case Diagram:
-![alt text](image-6.png)
+## AIM:
+To study the problem statement ,SRS,Document and draw all the UML diagrams of "RAILWAY RESERVATION SYSTEM".
 
-# Class Diagram:
-![alt text](image-1.png)
+## SRS (Procedure):
+ 1.In use case diagram it consists of Actors, use cases, Association.
+ 2.Activity diagram it consists action, Initial and final, Control flow.
+ 3.Identify actors and usecases from the system.
+ 4.Define the classes and relationships in the system.
+ 5.Illustrate the flow of actions for a specific task.
+ 6.Model interactions between objects for a process.
 
-# Activity Diagram:
-![alt text](image-2.png)
 
-# Package Diagram:
-![alt text](image-3.png)
+## DIAGRAMS:
 
-# Communication Diagram:
-![alt text](image-4.png)
+ 1.Use Case Diagram
+ 2.Class Diagram
+ 3. Package Diagram
+ 4.Sequence Diagram
+ 5.Activity Diagram
+ 6.Communication Diagram
 
-# Sequence Diagram:
-![alt text](image-5.png)
+## USE CASE DIAGRAM
+![use 3](https://github.com/user-attachments/assets/165d0d1c-2f7c-49e0-b213-b8bf63d2bb25)
+
+
+## CLASS DIAGRAM
+![class3](https://github.com/user-attachments/assets/e2f6bd1b-bfa7-47a3-bf0f-846ebe084bb6)
+
+
+## PACKAGE DIAGRAM
+![package 3](https://github.com/user-attachments/assets/aa3c38bc-ec41-46cf-9050-b7c2fc0b4d9a)
+
+
+## SEQUENCE DIAGRAM
+![sequence 3](https://github.com/user-attachments/assets/9efa01b5-7e20-4095-ac2b-a89462a965e6)
+
+
+## ACTIVITY DIAGRAM
+![activity 3](https://github.com/user-attachments/assets/4e12df9b-2b88-455d-bb17-89eb1675a48b)
+
+
+## COMMUNICATION DIAGRAM
+![communi 3](https://github.com/user-attachments/assets/75b90955-f519-4cb9-b50b-9ad0f810509d)
+
 
 # RESULT:
-Thus the project to develop e-ticketing system was developed using Star UML Software.
+Thus the "RAILWAY RESERVATION SYSTEM" project created , executed and the output was verified.
+
+
+# RESULT:
+Thus the "RAILWAY RESERVATION SYSTEM" project created , executed and the output was verified.
